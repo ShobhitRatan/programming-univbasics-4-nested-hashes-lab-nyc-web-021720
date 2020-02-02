@@ -12,9 +12,7 @@ def alan_kay_is_known_for
 end
 
 def dennis_ritchies_language
-	dennis_ritchie = {
-    :languages => ["C"]
-    }
+	dennis_ritchies_language = "C"
 end
 
 def adding_matz
